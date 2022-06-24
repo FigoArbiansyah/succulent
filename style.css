@@ -404,6 +404,10 @@ nav ul .bar {
     position: relative;
 }
 
+footer {
+    overflow-y: hidden;
+}
+
 
 
 }
