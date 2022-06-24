@@ -242,6 +242,21 @@ main .bot-nav {
     display: none;
 }
 
+.kontak .bio .sosmed {
+    margin-left: 15px;
+} 
+
+.kontak .bio .sosmed img {
+    width: 20px;
+    margin-top: 40px;
+    margin-right: 15px;
+    transition: 1s all;
+    border: 1px solid white;
+}
+
+.kontak .bio .sosmed img:hover {
+    transform: scale(1.5);
+}
 
 
 
